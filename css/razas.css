@@ -1,0 +1,111 @@
+.card-title{
+    font-weight: bold !important;
+}
+#beagle{
+    background-image: url(../images/beagle.webp);
+    background-size: cover;
+}
+#bichon-maltes{
+    background-image: url(../images/bichon.webp);
+    background-size: cover;
+}
+#bulldog-frances{
+    background-image: url(../images/bulldog.avif);
+    background-size: cover;
+}
+#chihuahua{
+    background-image: url(../images/chihuahua.jpeg);
+    background-size: cover;
+}
+#pomerania{
+    background-image: url(../images/pomerania.jpeg);
+    background-size: cover;
+}
+#pug{
+    background-image: url(../images/pug.webp);
+    background-size: cover;
+}
+#schnauzer-miniatura{
+    background-image: url(../images/schnauzer.jpg);
+    background-size: cover;
+}
+#salchicha{
+    background-image: url(../images/salchicha.jpeg);
+    background-size: cover;
+}
+#shih-tzu{
+    background-image: url(../images/shihtzu.jpg);
+    background-size: cover;
+}
+#border-collie{
+    background-image: url(../images/border.jpg);
+    background-size: cover;
+}
+#boxer{
+    background-image: url(../images/boxer.jpg);
+    background-size: cover;
+}
+#chow-chow{
+    background-image: url(../images/chowchow.webp);
+    background-size: cover;
+}
+#corgi{
+    background-image: url(../images/corgi.jpg);
+    background-size: cover;
+}
+#doberman{
+    background-image: url(../images/doberman.jpg);
+    background-size: cover;
+}
+#shar-pei{
+    background-image: url(../images/sharpei.webp);
+    background-size: cover;
+}
+#xoloitzcuintle{
+    background-image: url(../images/xoloitzcuintle.webp);
+    background-size: cover;
+}
+#akita-inu{
+    background-image: url(../images/akitainu.webp);
+    background-size: cover;
+}
+#cocker{
+    background-image: url(../images/cocker.avif);
+    background-size: cover;
+}
+#alusky{
+    background-image: url(../images/alusky.jpg);
+    background-size: cover;
+}
+#bloodhound{
+    background-image: url(../images/bloodhound.webp);
+    background-size: cover;
+}
+#dogo-argentino{
+    background-image: url(../images/dogoargentino.jpg);
+    background-size: cover;
+}
+#golden{
+    background-image: url(../images/golden.jpeg);
+    background-size: cover;
+}
+#gran-danes{
+    background-image: url(../images/grandanes.jpg);
+    background-size: cover;
+}
+#mastin-tibetano{
+    background-image: url(../images/mastintibetano.webp);
+    background-size: cover;
+}
+#pastor-aleman{
+    background-image: url(../images/pastoraleman.jpg);
+    background-size: cover;
+}
+#rottweiler{
+    background-image: url(../images/rottweiler.jpg);
+    background-size: cover;
+}
+#san-bernardo{
+    background-image: url(../images/sanbernardo.jpeg);
+    background-size: cover;
+}
