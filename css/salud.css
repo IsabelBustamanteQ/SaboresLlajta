@@ -31,3 +31,7 @@
     background-size: cover;
     background-position: center;
 }
+#mapa{
+    width: 100% !important;
+    height: 100% !important;
+}
