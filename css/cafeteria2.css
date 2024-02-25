@@ -1,0 +1,22 @@
+#portada-cafeteria2{
+    background-image: url(../images/PortadaRestaurante.jpg) !important;
+    background-size: cover;
+}
+#letras-portada{
+    background-color:rgba(237, 225, 225, 0.5) !important;
+}
+#restaurante2{
+    background-image: url(../images/restaurante2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#bar2{
+    background-image: url(../images/bar2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#mapa{
+    width: 100% !important;
+    height: 100% !important;
+}

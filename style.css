@@ -1,25 +1,41 @@
-#portada-Curiosidades{
-    background-image:url(./images/portadaCuriosidades.jpeg) !important;
-    background-size:cover;
+.card-title{
+    font-weight: bold !important;
 }
-#letras-portada{
-    background-color:rgba(237, 225, 225, 0.5) !important;
-}
-#perro-durmiendo{
-    background-image:url(./images/perro-durmiendo.jpg) !important;
-    width: 100%;
-    height: 100%;
-    background-size:cover;
-    
-}
-#dientes-perro{
-    background-image: url(./images/dientes-perro.webp) !important;
+#restaurante1{
+    background-image: url(../images/restaurante1.jpg);
     background-size: cover;
 }
-#perro-zurdo{
-    background-image: url(./images/perro-zurdo.jpeg) !important;
+#restaurante2{
+    background-image: url(../images/restaurante2.jpg);
     background-size: cover;
 }
-footer{
-    height: 30px !important;
+#restaurante3{
+    background-image: url(../images/restaurante3.jpg);
+    background-size: cover;
+}
+
+#cafeteria1{
+    background-image: url(../images/cafeteria1.jpg);
+    background-size: cover;
+}
+#cafeteria2{
+    background-image: url(../images/cafeteria2.jpg);
+    background-size: cover;
+}
+#cafeteria3{
+    background-image: url(../images/cafeteria3.jpg);
+    background-size: cover;
+}
+
+#bar1{
+    background-image: url(../images/bar1.jpg);
+    background-size: cover;
+}
+#bar2{
+    background-image: url(../images/bar2.jpg);
+    background-size: cover;
+}
+#bar3{
+    background-image: url(../images/bar3.jpg);
+    background-size: cover;
 }
