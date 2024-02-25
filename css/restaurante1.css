@@ -1,18 +1,18 @@
 #portada-restaurante1{
-    background-image: url(../images/PortadaRestaurante.jpg) !important;
+    background-image: url(../imagenes/res1.jpg) !important;
     background-size: cover;
 }
 #letras-portada{
     background-color:rgba(237, 225, 225, 0.5) !important;
 }
 #restaurante1{
-    background-image: url(../images/cafeteria1.jpg);
+    background-image: url(../imagenes/caf1.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #bar1{
-    background-image: url(../images/bar1.jpg);
+    background-image: url(../imagenes/bar1.jpg);
     background-size: cover;
     background-position: center;
 }

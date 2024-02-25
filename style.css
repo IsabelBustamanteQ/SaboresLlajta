@@ -2,40 +2,47 @@
     font-weight: bold !important;
 }
 #restaurante1{
-    background-image: url(../images/restaurante1.jpg);
+    background-image: url(../SaboresLlajta/imagenes/res1.jpg);
+    background-size: cover;
+}
+#logo
+{
+    background-image: url(../SaboresLlajta/imagenes/logo1.jpeg);
+
     background-size: cover;
 }
 #restaurante2{
-    background-image: url(../images/restaurante2.jpg);
+    background-image: url(../SaboresLlajta/imagenes/res2.jpg);
     background-size: cover;
 }
 #restaurante3{
-    background-image: url(../images/restaurante3.jpg);
+    background-image: url(../SaboresLlajta/imagenes/res3.jpg);
     background-size: cover;
 }
 
 #cafeteria1{
-    background-image: url(../images/cafeteria1.jpg);
+    background-image: url(../SaboresLlajta/imagenes/caf1.jpg);
     background-size: cover;
 }
 #cafeteria2{
-    background-image: url(../images/cafeteria2.jpg);
+    background-image: url(../SaboresLlajta/imagenes/caf2.png);
     background-size: cover;
 }
 #cafeteria3{
-    background-image: url(../images/cafeteria3.jpg);
+    background-image: url(../SaboresLlajta/imagenes/caf3.png);
     background-size: cover;
 }
 
 #bar1{
-    background-image: url(../images/bar1.jpg);
+    background-image: url(../SaboresLlajta/imagenes/bar1.jpg);
     background-size: cover;
 }
 #bar2{
-    background-image: url(../images/bar2.jpg);
+    background-image: url(../SaboresLlajta/imagenes/bar2.jpg);
     background-size: cover;
 }
 #bar3{
-    background-image: url(../images/bar3.jpg);
+   
+    background-image: url(../SaboresLlajta/imagenes/bar3.jpg);
     background-size: cover;
 }
