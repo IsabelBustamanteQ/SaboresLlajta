@@ -1,14 +1,17 @@
 .card-title{
     font-weight: bold !important;
 }
+
+.card {
+    height: 460px;
+}
+
 #restaurante1{
     background-image: url(../SaboresLlajta/imagenes/res1.jpg);
     background-size: cover;
 }
 #logo
 {
-    background-image: url(../SaboresLlajta/imagenes/logo1.jpeg);
-
     background-size: cover;
 }
 #restaurante2{
@@ -45,4 +48,24 @@
    
     background-image: url(../SaboresLlajta/imagenes/bar3.jpg);
     background-size: cover;
+}
+.banner-lateral {
+    position: fixed;
+    top: 0;
+    width: 150px;
+    background-color: gray  ;
+}
+.banner-izquierdo {
+    left: 15px;
+    margin-top: 8%;
+    height: 70%;
+}
+.banner-derecho {
+    right: 15px;
+    margin-top: 8%;
+    height: 70%;
+}
+main {
+    margin-left: 200px;
+    margin-right: 200px;
 }
