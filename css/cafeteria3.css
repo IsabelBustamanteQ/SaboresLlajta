@@ -1,9 +1,10 @@
 #portada-cafeteria3{
     background-image: url(../imagenes/caf3.png) !important;
     background-size: cover;
+    background-position: center;
 }
 #letras-portada{
-    background-color:rgba(237, 225, 225, 0.5) !important;
+    background-color:rgba(237, 225, 225, 0.8) !important;
 }
 #restaurante3{
     background-image: url(../imagenes/res3.jpg);
@@ -19,4 +20,7 @@
 #mapa{
     width: 100% !important;
     height: 100% !important;
+}
+.img-publicidad:hover{
+    cursor: pointer;
 }
