@@ -1,6 +1,7 @@
 #portada-cafeteria2{
     background-image: url(../imagenes/caf2.png) !important;
     background-size: cover;
+    background-position: center;
 }
 #letras-portada{
     background-color:rgba(237, 225, 225, 0.5) !important;
